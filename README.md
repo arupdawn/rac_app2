@@ -9,4 +9,12 @@ You need to have nodejs installed on your machine. If you don’t, please go to 
 
 ## How to run the App
 Simply go to the directory name rac_app on your local machine.
-#### `cd rac_app`
+### `cd rac_app2`
+
+In the project directory, you can run:
+### `npm start`
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
+
+
