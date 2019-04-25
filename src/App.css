@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1491186593887-8098d1455a3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80");
+  background-size: cover;
+  height:700px;
+  
+}
+
+
+
+
+.Main_styling{
+  display: inline-block;
+  width: 500px;
+  justify-content: center;
+  text-align: center;
+  font-size: 22px;
+}
+
+

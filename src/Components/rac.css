@@ -1,0 +1,68 @@
+
+
+#Main_Container{
+    text-align: center;
+    margin-top: 15px;
+    border: 10px;
+    border-color: #000000;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    font-family: 'Cabin Sketch', cursive;
+    background-color: white;
+
+}
+
+#HeadStyle{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Poiret One', cursive;
+    
+}
+
+.margin-btn{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    border: none; 
+    cursor: pointer;
+}
+
+.Align-left{
+    padding-left: 20px;
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.fa-users{
+    color: brown;
+    width:50px;
+}
+
+.fa-bed{
+    width:50px;
+    color: rgb(22, 93, 187);
+}
+
+.fa-user{
+    width:50px;
+    color: rgb(22, 93, 187);
+}
+
+.fa-child{    
+    width:50px;
+    color: rgb(22, 93, 187);
+}
+
+.fa-plus-square{
+    color:rgb(219, 72, 72);
+}
+
+.fa-minus-square{
+    color:rgb(141, 141, 141);
+}
+
+.number-spacing{
+    width: 50px;
+}
